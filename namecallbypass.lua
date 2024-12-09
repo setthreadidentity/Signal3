@@ -1,3 +1,4 @@
+--// namecallbypass | Developer: setthreadidentity. | Disclaimer: This is a public bypass your not cool for finding a loadstring kiddo nice try tho \\-- 
 local getinfo = getinfo or debug.getinfo
 local DEBUG = false
 local Hooked = {}
